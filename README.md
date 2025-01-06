@@ -20,7 +20,7 @@ And .. Lo behold, we have a most-minimalistic 3-bit 4th (ie. 3b4th)  computer.
 
 Links:
 
-1. [3b4th Info](https://point.enablery.org/shri/3b4thelp.html)
+1. [3b4th Details](https://point.enablery.org/shri/3b4th/3b4thelp.html)
 
 2. [3b4th .js Simulator](https://point.enablery.org/shri/3b4th)
 
