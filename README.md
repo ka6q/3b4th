@@ -18,7 +18,11 @@ segmentation protection.
 
 And .. Lo behold, we have a most-minimalistic 3-bit 4th (ie. 3b4th)  computer.
 
-[3b4th .js Simulator](https://point.enablery.org/shri/3b4th)
+Links:
 
-[3b4th .v Verilog FPGA/ASIC](https://point.enablery.org/shri/3b4th/verilog)
+1. [3b4th Info](https://point.enablery.org/shri/3b4thelp.html)
+
+2. [3b4th .js Simulator](https://point.enablery.org/shri/3b4th)
+
+3. [3b4th .v Verilog FPGA/ASIC](https://point.enablery.org/shri/3b4th/verilog)
 
