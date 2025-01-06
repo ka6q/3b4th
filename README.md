@@ -1,4 +1,4 @@
-# 3b4th - 3 bits FORTH - The mostest minimalest CPU
+# 3b4th - 3 bits FORTH - The most-est minimalist CPU ever
 
 3 bits FORTH -- a minimalist 3-bit CPU which runs a minimalist FORTH.
 
